@@ -1,19 +1,24 @@
-📞💻 Just Launched: Call Center Dashboard using Power BI! 🚀📊
-Excited to share a recent project where I designed and built a Call Center Performance Dashboard using Power BI to help track, analyze, and optimize customer service operations in real time.
-🔹 Key Insights Delivered:
-📈 Call Volume Trends (daily, weekly, hourly)
-⏱️ Average Handle Time (AHT)
-🙋‍♂️ Agent Performance Monitoring
-📊 First Call Resolution & CSAT Scores
+📞**Call Center Dashboard** 
 
-🛠️ Tools & Techniques:
-Power BI Desktop
-DAX for custom metrics
-Interactive slicers 
-Scheduled refresh for near real-time data
-Role-level security for team-based views
-🎯 Impact:
- This dashboard enables faster decisions, improved customer experience, and more efficient resource planning—all through data-driven insights.
-This project reinforced how Power BI can be a game-changer in streamlining operations and enhancing visibility for support teams.
-👇 Have you implemented dashboards in your call center or CX operations? I’d love to hear your experiences!
-Example: ![image](https://github.com/user-attachments/assets/b1c51e48-80c7-4faf-a978-e737c9a21e5f)
+A powerful Power BI dashboard to monitor and optimize call center performance in real-time.
+
+The Call Center Dashboard is a comprehensive analytics solution designed in Power BI to help call center managers, team leads, and business analysts gain deep insights into their operations. It brings key performance indicators (KPIs) together in one interactive, easy-to-use interface, enabling data-driven decisions to improve customer service, agent productivity, and overall efficiency.
+
+**Key Features**
+Real-Time KPIs – Track metrics like average handling time (AHT), first-call resolution (FCR), abandonment rate, and service level.
+* Call Volume Analysis – Monitor incoming and outgoing call volumes by day, week, or month.
+*  Agent Performance Tracking – Compare agent activity with customizable leaderboards.
+*  Customer Satisfaction Trends – Visualize CSAT/NPS scores over time to identify patterns.
+*  Interactive Filtering – Slice data by date, department, agent, or customer segment.
+*  Queue Management Insights – Analyze average wait times and peak hours to optimize staffing.
+
+   **Why Use This Dashboard?**
+   * Improve Service Quality – Identify bottlenecks affecting customer satisfaction.
+   * Optimize Staffing – Align agent schedules with actual call patterns to reduce idle time or long waits.
+   * Enhance Agent Performance – Spot top performers and those needing coaching.
+   * Increase Transparency – Share clear, visual performance data with stakeholders.
+   * Support Data-Driven Decisions – Base process improvements on facts, not assumptions.
+
+
+**Dashboard Preview**
+![image](https://github.com/user-attachments/assets/b1c51e48-80c7-4faf-a978-e737c9a21e5f)
